@@ -1,0 +1,6 @@
+C:\Pemrograman\Pratikum3\Pratikum3\bin\Debug\Pratikum3.exe.config
+C:\Pemrograman\Pratikum3\Pratikum3\bin\Debug\Pratikum3.exe
+C:\Pemrograman\Pratikum3\Pratikum3\bin\Debug\Pratikum3.pdb
+C:\Pemrograman\Pratikum3\Pratikum3\obj\Debug\Pratikum3.csprojResolveAssemblyReference.cache
+C:\Pemrograman\Pratikum3\Pratikum3\obj\Debug\Pratikum3.exe
+C:\Pemrograman\Pratikum3\Pratikum3\obj\Debug\Pratikum3.pdb
